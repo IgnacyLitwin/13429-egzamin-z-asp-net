@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace Egzamin.Models
 {
-    public class Class
+    public class TodoModel
     {
         public int IdZad { get; set; }
         public string Nazwa { get; set; }
